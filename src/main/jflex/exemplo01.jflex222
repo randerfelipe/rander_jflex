@@ -1,0 +1,10 @@
+//exemplo01.jflex
+
+%%
+
+%standalone
+
+%%
+
+\t { System.out.print("TAB"); }
+
